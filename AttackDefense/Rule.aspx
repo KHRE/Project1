@@ -55,7 +55,7 @@ body {
       <li>Starting:
          <ul>
             <li>2 different teams are required to play this game.</li>
-            <li>One attack team and one defender team. Both teams will have their respective card decks.</li>
+            <li>One attack team and one defender team. Both teams will have their respective card decks.  </li>
          </ul>
       </li>
       <li>Drawing cards:
