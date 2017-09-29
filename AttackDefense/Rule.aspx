@@ -66,7 +66,7 @@ body {
       </li>
       <li>Playing & Field:
          <ul>
-            <li>Maximum of 3 cards can be played on one turn. One of each category.</li>
+            <li>Maximum of 3 cards can be played on one turn. One of each category.     </li>
             <li>Cards after being used will be placed on the used pile.</li>
          </ul>
       </li>
